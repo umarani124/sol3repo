@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin: 0px;
+}
+
+.container-fluid{
+    padding:0px;
+    border:2px solid black;
+}
+.navbar-default{
+   background-color:gray;
+   margin: 0px;
+    padding:0px;
+}
+
+.navbar-default .nav-link{
+    margin-left: 0px;
+    background-color: whitesmoke;
+    border:2px solid black;
+    text-align: center;
+    color:black;
+}
+.navbar-default .navbar-brand{
+    color: 1px solid black;
+}
+#menu{
+    
+    text-align: center;
+}
+#head{
+    text-align: center;
+    background-color: gray;
+    
+}
+#txt{
+    background-color: gray;
+    padding-left: 15px;
+}
